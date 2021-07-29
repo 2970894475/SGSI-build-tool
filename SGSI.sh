@@ -93,7 +93,7 @@ function normal() {
 
   # apex_vndk调用处理
   cd ./make/apex_vndk_start
-  ./make.sh
+  #./make.sh
   cd $LOCALDIR 
  
   # apex_fs数据整合
