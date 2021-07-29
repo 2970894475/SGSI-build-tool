@@ -319,7 +319,7 @@ function normal() {
 
   # 为所有rom的相机修改为aosp相机
   cd ./make/camera
-  ./camera.sh
+  # ./camera.sh
   cd $LOCALDIR
 
   # 系统种类检测
